@@ -1,0 +1,1 @@
+bat 'curl -X POST http://jenkins User ID:API_Token@ip:port/job/jobName/build?token=JobToken'
